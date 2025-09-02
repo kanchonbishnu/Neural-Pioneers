@@ -1,5 +1,5 @@
 ## 📌 Overview  
-**Neural Pioneers** is a collaborative project for **CS4875**, built by a team of five passionate innovators. Our mission is to explore, design, and implement cutting-edge solutions in artificial intelligence, neural networks, and modern computing systems.  
+**Neural Pioneers** is a collaborative project for **CS4875**, built by a team of Six passionate innovators. Our mission is to explore, design, and implement cutting-edge solutions in artificial intelligence, neural networks, and modern computing systems.  
 
 This repository contains all the source code, documentation, and research materials developed by the team throughout the course.  
 

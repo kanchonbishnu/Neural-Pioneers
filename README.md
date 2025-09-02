@@ -10,8 +10,8 @@ This repository contains all the source code, documentation, and research materi
 - **Kanchon Bishnu** – Project Lead & Machine Learning Engineer  
   📧 [kbishnu@calstatela.edu](mailto:kbishnu@calstatela.edu)  
 
-- **Sai Alekhya Mekala** – Backend Developer & Data Engineer  
-  📧 [smekala2@calstatela.edu](mailto:smekala2@calstatela.edu)  
+- **Sai Alekhya Mekala** – Web Developer  
+  📧 [alekhyaks.186@gmail.com](mailto:smekala2@calstatela.edu)  
 
 - **Washika Afrozi** – Research & Documentation Lead  
   📧 [wafrozi@calstatela.edu](mailto:wafrozi@calstatela.edu)  

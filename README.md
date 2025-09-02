@@ -20,7 +20,10 @@ This repository contains all the source code, documentation, and research materi
   📧 [asaraf@calstatela.edu](mailto:asaraf@calstatela.edu)  
 
 - **Andrew Banagas** – Testing & Integration Engineer  
-  📧 [abanaga@calstatela.edu](mailto:abanaga@calstatela.edu)  
+  📧 [abanaga@calstatela.edu](mailto:abanaga@calstatela.edu)
+
+- **Jeevan Sidhardha** – Backend Developer  
+  📧 [jmovva@calstatela.edu](mailto:jmovva@calstatela.edu) 
 
 ---
 
